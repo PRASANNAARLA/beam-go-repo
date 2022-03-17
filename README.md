@@ -14,7 +14,7 @@
   <br></br>
   1. go mod init example/hello
   2. go: creating new go.mod: module example/hello
-  3. Exeecuted the code from [link](https://go.dev/doc/tutorial/getting-started)
+  3. Executed the code from [link](https://go.dev/doc/tutorial/getting-started)
   4. go run .
   
   
