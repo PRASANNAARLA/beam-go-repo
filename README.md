@@ -8,7 +8,7 @@
   ###  `go get -u github.com/apache/beam/sdks/v2/go/pkg/beam`
   ### `go install github.com/apache/beam/sdks/v2/go/examples/wordcount`
   ### `go get github.com/apache/beam/sdks/v2/go/pkg/beam/io/filesystem/gcs@v2.37`
-  ### `wordcount --input input.txt --output Arlacounts`
+  ### `wordcount --input sample.txt --output Arlacounts`
   <br></br>
   ## Commands to run the hello program
   <br></br>
